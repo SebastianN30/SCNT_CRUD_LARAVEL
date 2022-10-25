@@ -8,7 +8,7 @@
     </div>
     @endif
 
-<a href="{{ url('empleado/create')}}" class="btn btn-success">Registrar nuevo empleado</a>
+<a href="{{ url('empleado/create')}}" class="btn btn-success">Registrar un nuevo empleado</a>
 <br>
 <br>
 <table class="table table-light">
